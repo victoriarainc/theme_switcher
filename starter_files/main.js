@@ -3,7 +3,7 @@ let body = document.getElementsByTagName( "body" )[ 0 ];
 // // ==============================
 // // ========== Kittens ===========
 // // ==============================
-// let kitten_button = document.querySelector("kitten_button");
+// let kitten_button = document.querySelector("#kitten_button");
 // function switchToKittenTheme(){
 //     body.id = "kittens";
 //
@@ -12,7 +12,7 @@ let body = document.getElementsByTagName( "body" )[ 0 ];
 // // ==============================
 // // ========== Tokyo =============
 // // ==============================
-// let tokyo_button = document.querySelector("tokyo_button");
+// let tokyo_button = document.querySelector("#tokyo_button");
 // function switchToTokyoTheme(){
 //   body.id = "tokyo";
 // }
@@ -22,7 +22,7 @@ let body = document.getElementsByTagName( "body" )[ 0 ];
 // // ==============================
 // // ========== Metal =============
 // // ==============================
-// let metal_button = document.querySelector("metal_button");
+// let metal_button = document.querySelector("#metal_button");
 // function switchToMetalTheme(){
 //   body.id = "metal";
 // }
